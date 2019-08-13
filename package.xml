@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Centerax_Akismet</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Prevent SPAM</summary>
+    <description>Prevent SPAM</description>
+    <notes>1.0.0
+-----------------------
+First release.</notes>
+    <authors><author><name>Pablo S. Benitez</name><user>auto-converted</user><email>pablos.benitez@gmail.com</email></author></authors>
+    <date>2009-10-29</date>
+    <time>00:59:46</time>
+    <contents><target name="magecommunity"><dir name="Centerax"><dir name="Akismet"><dir name="Block"><dir name="Adminhtml"><dir name="Akismet"><dir name="View"><file name="Form.php" hash="217663dc9d87f39e959cc24d9b8fbd98"/></dir><file name="Grid.php" hash="9be1d5ff7a4d783d29555e41fdde9b0c"/><file name="List.php" hash="a945c274754d4494a293f2c58a55475f"/><file name="View.php" hash="d17daf03dab5750a67f60c578be58530"/></dir></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="AkismetController.php" hash="322a0f656c8f4d705eb4fb757569a9f4"/></dir><dir name="Contacts"><file name="IndexController.php" hash="5d7e95670f6f738b9e013a0a19838aa7"/></dir><dir name="Review"><file name="ProductController.php" hash="b4a83bf76c0ee89285029b850122daf1"/></dir></dir><dir name="etc"><file name="config.xml" hash="57e1efec3b56def9a295f7bdaef67c3e"/><file name="system.xml" hash="fb64f9256962c1d5d72760d2e59b18a4"/></dir><dir name="Helper"><file name="Data.php" hash="d5c57d1405dc974479eb466f26aecebb"/></dir><dir name="Model"><dir name="Akismet"><file name="Akismet.php" hash="f52b5ab54a3366723d2ab57fef87c3aa"/></dir><dir name="Mysql4"><dir name="Akismet"><dir name="Akismet"><file name="Collection.php" hash="c1e92d1b90a6367e7a37f1bcc60fa984"/></dir><file name="Akismet.php" hash="d96949f57a11f1d01085b435b896ca3e"/></dir></dir><file name="Api.php" hash="bc0a09fae62b1b83d2702b6dc2a76f15"/></dir><dir name="sql"><dir name="akismet_setup"><file name="mysql4-install-1.0.0.php" hash="b727a75a850e0c51b1bb79a55aaf831b"/></dir></dir></dir></dir></target><target name="magelocale"><dir name="en_US"><file name="Centerax_Akismet.csv" hash="7e58f7c33fb8cf7686dbbd0d8a7ae8fe"/></dir></target><target name="mageetc"><dir name="modules"><file name="Centerax_Akismet.xml" hash="c18ad670cbda1844637dcf492a309905"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
